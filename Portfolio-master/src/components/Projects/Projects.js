@@ -26,7 +26,7 @@ function Projects() {
               isBlog={false}
               title="UBER"
               description="A ride-hailing app built using the MERN stack (MongoDB, Express.js, React, Node.js). It features user authentication, location tracking, ride management, and real-time backend integration. The app offers a responsive and intuitive UI with optimized performance for a seamless experience."
-              ghLink="https://github.com/ashwinip1503/Uber"
+              ghLink="https://github.com/ashwinip1503/UBER"
             />
           </Col>
 
