@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-master/static/css/main.802da472.css",
+    "main.js": "/Portfolio-master/static/js/main.613b67d9.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js",
+    "static/media/College.png": "/Portfolio-master/static/media/College.a3064ac4c5fb7140202d.png",
+    "static/media/food.png": "/Portfolio-master/static/media/food.c1acbbe794dc75b447ec.png",
+    "static/media/uber.png": "/Portfolio-master/static/media/uber.958c446f774e6f1d3bbf.png",
+    "static/media/book.png": "/Portfolio-master/static/media/book.a4604890b68f067dda74.png",
+    "static/media/logo.jpg": "/Portfolio-master/static/media/logo.060095c3331fc7328043.jpg",
+    "static/media/Ashwini Padwal Resume.pdf": "/Portfolio-master/static/media/Ashwini Padwal Resume.58006a0f0405eae19508.pdf",
+    "static/media/home-main.svg": "/Portfolio-master/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio-master/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Todo.png": "/Portfolio-master/static/media/Todo.d55dad34d76083a7ff7f.png",
+    "static/media/home-bg.jpg": "/Portfolio-master/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Portfolio-master/static/media/avatar.8ba4d477a8de668b9117f5dc4a621439.svg",
+    "static/media/pre.svg": "/Portfolio-master/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio-master/index.html",
+    "main.802da472.css.map": "/Portfolio-master/static/css/main.802da472.css.map",
+    "main.613b67d9.js.map": "/Portfolio-master/static/js/main.613b67d9.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio-master/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio-master/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.802da472.css",
+    "static/js/main.613b67d9.js"
+  ]
+}
